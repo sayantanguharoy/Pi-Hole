@@ -1,0 +1,17 @@
+Blocklists used to generate Pi-hole's Gravity: 15
+
+	https://blocklist.site/app/dl/ads	
+	https://blocklist.site/app/dl/crypto	
+	https://blocklist.site/app/dl/fraud	
+	https://blocklist.site/app/dl/fakenews	
+	https://blocklist.site/app/dl/malware	
+	https://blocklist.site/app/dl/phishing	
+	https://blocklist.site/app/dl/piracy	
+	https://blocklist.site/app/dl/ransomware	
+	https://blocklist.site/app/dl/scam	
+	https://blocklist.site/app/dl/spam	
+	https://blocklist.site/app/dl/tracking	
+	http://www.malwaredomainlist.com/mdlcsv.php	
+	https://openphish.com/feed.txt	
+	https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist	
+	http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
